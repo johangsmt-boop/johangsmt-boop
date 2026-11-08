@@ -30,7 +30,7 @@
 ```text
 ╔═[ SERVICE SECRET · DOSSIER N°001 ]══════════════
 ║
-║  AGENT          TON_PRENOM
+║  AGENT          Johan
 ║  FORMATION      BTS SIO · 1re année
 ║  PROFIL         Développeur junior
 ║  SPÉCIALITÉS    Développement · Réseau · Cybersécurité
@@ -69,7 +69,7 @@
   <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub"/></a>
 </p>
 
-**`INFILTRATION RÉSEAU`**
+**`RÉSEAU`**
 
 <p>
   <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/-Debian-0A0A0A?style=for-the-badge&logo=debian&logoColor=D4AF37" alt="Debian"/></a>
@@ -79,7 +79,7 @@
   <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-0A0A0A?style=for-the-badge&logo=wireshark&logoColor=D4AF37" alt="Wireshark"/></a>
 </p>
 
-**`CONTRE-ESPIONNAGE`**
+**`Défenseur et cyber`**
 
 <p>
   <a href="https://github.com/fail2ban/fail2ban"><img src="https://img.shields.io/badge/-Fail2ban-0A0A0A?style=for-the-badge&logo=gnometerminal&logoColor=D4AF37" alt="Fail2ban"/></a>
@@ -255,7 +255,7 @@ Ma vitrine complète arrive bientôt.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/TON_LINKEDIN/"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/johan-goasmat-857862386/?locale=t"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn"/></a>
 <a href="mailto:ton.email@exemple.fr"><img src="https://img.shields.io/badge/-Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email"/></a>
 <!-- <a href="https://TON_SITE.fr"><img src="https://img.shields.io/badge/-Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" alt="Portfolio"/></a> -->
 
