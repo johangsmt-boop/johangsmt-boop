@@ -256,7 +256,7 @@ Ma vitrine complète arrive bientôt.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/johan-goasmat-857862386/?locale=t"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn"/></a>
-<a href="mailto:ton.email@exemple.fr"><img src="https://img.shields.io/badge/-Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email"/></a>
+<a href="johan.gsmt@gmail.com"><img src="https://img.shields.io/badge/-Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email"/></a>
 <!-- <a href="https://TON_SITE.fr"><img src="https://img.shields.io/badge/-Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" alt="Portfolio"/></a> -->
 
 <br/><br/>
