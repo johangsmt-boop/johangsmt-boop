@@ -1,11 +1,3 @@
-<!--
-  README de profil GitHub : thème "service secret", noir & or
-  1. Dépôt PUBLIC nommé exactement comme ton pseudo GitHub
-  2. Ce fichier à la racine sous le nom README.md
-  3. Remplace TON_PSEUDO / TON_PRENOM / liens (Ctrl+H)
-  4. Pour le snake : voir le fichier snake.yml (à mettre dans .github/workflows/)
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,60:0a0a0a,100:2b2208&height=230&section=header&text=johan.gsm&fontSize=64&fontColor=D4AF37&fontAlignY=40&desc=D%C3%89VELOPPEUR%20JUNIOR%20%C2%B7%20R%C3%89SEAU%20%C2%B7%20CYBERS%C3%89CURIT%C3%89&descSize=17&descColor=C9C9C9&descAlignY=66&animation=fadeIn" width="100%" alt="header"/>
