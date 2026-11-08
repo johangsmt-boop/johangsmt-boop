@@ -232,7 +232,7 @@ Ma vitrine complète arrive bientôt.
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/TON_PSEUDO/TON_PSEUDO/output/github-snake-dark.svg" alt="snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/johangsmt-boop/johangsmt-boop/output/github-snake-dark.svg" alt="snake" width="100%"/>"
 
 </div>
 
