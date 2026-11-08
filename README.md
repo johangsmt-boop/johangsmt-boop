@@ -219,20 +219,20 @@ Ma vitrine complète arrive bientôt.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=D4AF37&icon_color=D4AF37&text_color=E6E6E6&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=D4AF37&text_color=E6E6E6" alt="langages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=johangsmt-boop&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=D4AF37&icon_color=D4AF37&text_color=E6E6E6&include_all_commits=true&count_private=true" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johangsmt-boop&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=D4AF37&text_color=E6E6E6" alt="langages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=TON_PSEUDO&hide_border=true&background=0A0A0A&stroke=2b2208&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E6E6E6&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=8B8B8B" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=johangsmt-boop&hide_border=true&background=0A0A0A&stroke=2b2208&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E6E6E6&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=8B8B8B" alt="streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_PSEUDO&bg_color=0A0A0A&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&hide_border=true" alt="activité" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=johangsmt-boop&bg_color=0A0A0A&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&hide_border=true" alt="activité" width="100%"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/johangsmt-boop/johangsmt-boop/output/github-snake-dark.svg" alt="snake" width="100%"/>"
+<img src="https://raw.githubusercontent.com/johangsmt-boop/johangsmt-boop/output/github-snake-dark.svg" alt="snake" width="100%"/>
 
 </div>
 
