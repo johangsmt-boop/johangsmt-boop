@@ -1,108 +1,121 @@
 <!--
-  README de profil GitHub, version "terminal / hacker"
-  1. Crée un dépôt PUBLIC nommé exactement comme ton pseudo GitHub
-  2. Mets ce fichier à la racine sous le nom README.md
+  README de profil GitHub : thème "service secret", noir & or
+  1. Dépôt PUBLIC nommé exactement comme ton pseudo GitHub
+  2. Ce fichier à la racine sous le nom README.md
   3. Remplace TON_PSEUDO / TON_PRENOM / liens (Ctrl+H)
+  4. Pour le snake : voir le fichier snake.yml (à mettre dans .github/workflows/)
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a2e14&height=200&section=header&text=%3E_%20TON_PRENOM%40homelab&fontSize=48&fontColor=00FF41&animation=twinkling&fontAlignY=42&desc=BTS%20SIO%20%7C%20Dev%20junior%20%7C%20R%C3%A9seau%20%26%20Cyber&descSize=20&descColor=9be9a8&descAlignY=68" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,60:0a0a0a,100:2b2208&height=230&section=header&text=johan.gsm&fontSize=64&fontColor=D4AF37&fontAlignY=40&desc=D%C3%89VELOPPEUR%20JUNIOR%20%C2%B7%20R%C3%89SEAU%20%C2%B7%20CYBERS%C3%89CURIT%C3%89&descSize=17&descColor=C9C9C9&descAlignY=66&animation=fadeIn" width="100%" alt="header"/>
 
-<a href="https://github.com/TON_PSEUDO">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=00FF41&background=0D111700&center=true&vCenter=true&width=640&height=70&lines=%24+whoami;%3E+%C3%A9tudiant+BTS+SIO+%7C+dev+junior;%24+cat+%2Fetc%2Ffocus;%3E+r%C3%A9seau+%7C+cybers%C3%A9curit%C3%A9+%7C+self-hosting;%24+ssh+homelab;%3E+Connexion+%C3%A9tablie+%E2%9C%94;%24+.%2Fstatus.sh;%3E+%F0%9F%9F%A2+disponible+pour+un+stage" alt="typing"/>
+<a href="https://github.com/johangsmt-boop">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=1000&color=D4AF37&background=00000000&center=true&vCenter=true&width=640&height=60&lines=%3E+AGENT+%3A+TON_PRENOM;%3E+SP%C3%89CIALIT%C3%89+%3A+D%C3%89VELOPPEMENT+%26+R%C3%89SEAU;%3E+BASE+%3A+HOME+LAB+S%C3%89CURIS%C3%89;%3E+MISSION+%3A+D%C3%89CROCHER+UN+STAGE;%3E+STATUT+%3A+DISPONIBLE" alt="typing"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/status-open_to_internship-00FF41?style=flat-square&labelColor=0D1117" alt="status"/>
-<img src="https://img.shields.io/badge/BTS-SIO-00FF41?style=flat-square&labelColor=0D1117" alt="BTS SIO"/>
-<img src="https://komarev.com/ghpvc/?username=TON_PSEUDO&label=visites&color=00FF41&style=flat-square&labelColor=0D1117" alt="visites"/>
+<img src="https://img.shields.io/badge/STATUT-DISPONIBLE-D4AF37?style=flat-square&labelColor=0A0A0A" alt="statut"/>
+<img src="https://img.shields.io/badge/MISSION-STAGE-D4AF37?style=flat-square&labelColor=0A0A0A" alt="mission"/>
+<img src="https://img.shields.io/badge/BTS-SIO-D4AF37?style=flat-square&labelColor=0A0A0A" alt="BTS SIO"/>
+<img src="https://komarev.com/ghpvc/?username=TON_PSEUDO&label=CONSULTATIONS&color=D4AF37&style=flat-square&labelColor=0A0A0A" alt="visites"/>
 
 </div>
 
----
+<br/>
 
-## `$ neofetch`
+## ◼ DOSSIER CONFIDENTIEL
 
 ```text
-       .--.          TON_PRENOM@homelab
-      |o_o |         ─────────────────────────────
-      |:_/ |         OS        : BTS SIO (1re année)
-     //   \ \        Role      : Développeur junior
-    (|     | )       Focus     : Dev · Réseau · Cyber
-   /'\_   _/`\       Homelab   : Debian + CasaOS + Tailscale
-   \___)=(___/       Langages  : JavaScript · Python
-                     Status    : 🟢 cherche un stage
+╔═[ SERVICE SECRET · DOSSIER N°001 ]══════════════
+║
+║  AGENT          TON_PRENOM
+║  FORMATION      BTS SIO · 1re année
+║  PROFIL         Développeur junior
+║  SPÉCIALITÉS    Développement · Réseau · Cybersécurité
+║  LANGAGES       JavaScript · Python
+║  BASE           Home lab (Debian · CasaOS · Tailscale)
+║  AUTORISATION   Permis de coder ✔
+║  STATUT         En recherche de stage
+║
+╚═════════════════════════════════════════════════
+                                   [ CONFIDENTIEL ]
 ```
 
 ---
 
-## `$ ls ~/stack`
+## ◼ BRIEFING DE MISSION
 
-> Clique sur un badge pour ouvrir la techno.
-
-**`~/stack/dev`**
-
-<p>
-  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF41" alt="JavaScript"/></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41" alt="Python"/></a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF41" alt="HTML5"/></a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF41" alt="CSS3"/></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/-Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF41" alt="Bash"/></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF41" alt="Git"/></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/></a>
-</p>
-
-**`~/stack/network`**
-
-<p>
-  <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/-Debian-0D1117?style=for-the-badge&logo=debian&logoColor=00FF41" alt="Debian"/></a>
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF41" alt="Linux"/></a>
-  <a href="https://tailscale.com/"><img src="https://img.shields.io/badge/-Tailscale-0D1117?style=for-the-badge&logo=tailscale&logoColor=00FF41" alt="Tailscale"/></a>
-  <a href="https://www.openssh.com/"><img src="https://img.shields.io/badge/-SSH-0D1117?style=for-the-badge&logo=openssh&logoColor=00FF41" alt="SSH"/></a>
-  <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00FF41" alt="Wireshark"/></a>
-  <a href="https://www.netfilter.org/"><img src="https://img.shields.io/badge/-Netfilter%2FUFW-0D1117?style=for-the-badge&logo=linux&logoColor=00FF41" alt="UFW"/></a>
-</p>
-
-**`~/stack/security`**
-
-<p>
-  <a href="https://github.com/fail2ban/fail2ban"><img src="https://img.shields.io/badge/-Fail2ban-0D1117?style=for-the-badge&logo=gnometerminal&logoColor=00FF41" alt="Fail2ban"/></a>
-  <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/-Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF41" alt="Kali"/></a>
-  <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/-TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=00FF41" alt="TryHackMe"/></a>
-  <a href="https://owasp.org/"><img src="https://img.shields.io/badge/-OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=00FF41" alt="OWASP"/></a>
-</p>
-
-**`~/stack/selfhost`**
-
-<p>
-  <a href="https://casaos.zimaspace.com/"><img src="https://img.shields.io/badge/-CasaOS-0D1117?style=for-the-badge&logo=homeassistant&logoColor=00FF41" alt="CasaOS"/></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FF41" alt="Docker"/></a>
-</p>
-
-> 💡 Retire les badges des outils que tu n'as pas encore utilisés (Kali, TryHackMe, Wireshark...). Mieux vaut une stack honnête qu'une stack gonflée : un recruteur peut poser des questions dessus.
+> **Objectif** : intégrer une équipe en stage pour apprendre, être utile et progresser.
+> **Atouts** : curiosité, rigueur, et un home lab que j'ai monté et sécurisé moi-même.
+> **Terrain de jeu** : développement, administration systèmes et réseaux, sécurité.
 
 ---
 
-## `$ cat ~/homelab/architecture.md`
+## ◼ Q BRANCH · L'ARSENAL
+
+> Chaque badge est cliquable : un clic, et le dossier technique s'ouvre.
+
+**`ARMES DE CODE`**
+
+<p>
+  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=D4AF37" alt="JavaScript"/></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-0A0A0A?style=for-the-badge&logo=python&logoColor=D4AF37" alt="Python"/></a>
+  <a href="https://developer.mozilla.org/fr/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=D4AF37" alt="HTML5"/></a>
+  <a href="https://developer.mozilla.org/fr/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=D4AF37" alt="CSS3"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/-Bash-0A0A0A?style=for-the-badge&logo=gnubash&logoColor=D4AF37" alt="Bash"/></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-0A0A0A?style=for-the-badge&logo=git&logoColor=D4AF37" alt="Git"/></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub"/></a>
+</p>
+
+**`INFILTRATION RÉSEAU`**
+
+<p>
+  <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/-Debian-0A0A0A?style=for-the-badge&logo=debian&logoColor=D4AF37" alt="Debian"/></a>
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/-Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=D4AF37" alt="Linux"/></a>
+  <a href="https://tailscale.com/"><img src="https://img.shields.io/badge/-Tailscale-0A0A0A?style=for-the-badge&logo=tailscale&logoColor=D4AF37" alt="Tailscale"/></a>
+  <a href="https://www.openssh.com/"><img src="https://img.shields.io/badge/-SSH-0A0A0A?style=for-the-badge&logo=openssh&logoColor=D4AF37" alt="SSH"/></a>
+  <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-0A0A0A?style=for-the-badge&logo=wireshark&logoColor=D4AF37" alt="Wireshark"/></a>
+</p>
+
+**`CONTRE-ESPIONNAGE`**
+
+<p>
+  <a href="https://github.com/fail2ban/fail2ban"><img src="https://img.shields.io/badge/-Fail2ban-0A0A0A?style=for-the-badge&logo=gnometerminal&logoColor=D4AF37" alt="Fail2ban"/></a>
+  <a href="https://help.ubuntu.com/community/UFW"><img src="https://img.shields.io/badge/-UFW-0A0A0A?style=for-the-badge&logo=linux&logoColor=D4AF37" alt="UFW"/></a>
+  <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/-Kali_Linux-0A0A0A?style=for-the-badge&logo=kalilinux&logoColor=D4AF37" alt="Kali"/></a>
+  <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/-TryHackMe-0A0A0A?style=for-the-badge&logo=tryhackme&logoColor=D4AF37" alt="TryHackMe"/></a>
+  <a href="https://owasp.org/"><img src="https://img.shields.io/badge/-OWASP-0A0A0A?style=for-the-badge&logo=owasp&logoColor=D4AF37" alt="OWASP"/></a>
+</p>
+
+**`QUARTIER GÉNÉRAL`**
+
+<p>
+  <a href="https://casaos.zimaspace.com/"><img src="https://img.shields.io/badge/-CasaOS-0A0A0A?style=for-the-badge&logo=homeassistant&logoColor=D4AF37" alt="CasaOS"/></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=D4AF37" alt="Docker"/></a>
+</p>
+
+> 💡 Garde uniquement les outils que tu as réellement utilisés (Kali, TryHackMe, Wireshark...). Un recruteur peut poser des questions dessus.
+
+---
+
+## ◼ OPÉRATION HOME LAB · LA BASE SECRÈTE
 
 ```mermaid
 flowchart LR
-    subgraph CLIENTS["Mes appareils"]
+    subgraph AGENTS["Appareils autorisés"]
         PC["💻 PC Windows"]
         PH["📱 iPhone"]
     end
 
-    subgraph NET["Tailscale (VPN mesh chiffré)"]
-        TS(("🔒 tailnet"))
-    end
+    TS(("🔒 Tailscale<br/>tunnel chiffré"))
 
-    subgraph SRV["🖥️ Serveur : vieux portable (Debian)"]
+    subgraph BASE["🖥️ Base : vieux portable sous Debian"]
         FW["🧱 UFW<br/>entrant bloqué"]
-        F2B["🚫 Fail2ban<br/>jail sshd"]
-        SSH["🔑 SSH<br/>clé ed25519 uniquement"]
-        CASA["🏠 CasaOS<br/>apps en conteneurs"]
+        SSH["🔑 SSH<br/>clé uniquement"]
+        CASA["🏠 CasaOS<br/>services"]
+        F2B["🚫 Fail2ban"]
     end
 
     PC -->|SSH| TS
@@ -113,87 +126,88 @@ flowchart LR
     F2B -.surveille.-> SSH
 ```
 
----
+**`DISPOSITIFS DE SÉCURITÉ`**
 
-## `$ tail -f ~/homelab/hardening.log`
-
-```log
-[2026-11] casaos     : installé sur Debian, interface web opérationnelle
-[2026-11] tailscale  : serveur + iPhone dans le même tailnet, aucun port ouvert sur la box
-[2026-11] ufw        : policy deny incoming, accès limité au LAN et à Tailscale
-[2026-11] sshd       : authentification par clé ed25519 (avec passphrase)
-[2026-11] sshd       : PasswordAuthentication no, PermitRootLogin no
-[2026-11] fail2ban   : jail sshd actif, ban temporaire après plusieurs échecs
-[next]    monitoring : à venir
-[next]    backups    : à venir
-```
+| Dispositif | Rôle |
+|------------|------|
+| 🧱 **UFW** | Tout le trafic entrant est refusé, seuls le réseau local et Tailscale passent |
+| 🔑 **SSH par clé ed25519** | Plus de mot de passe, plus de connexion root |
+| 🚫 **Fail2ban** | Bannit automatiquement les adresses qui insistent |
+| 🌐 **Tailscale** | Accès à distance sans ouvrir de port sur la box |
+| ♻️ **Matériel recyclé** | Vieux portable réutilisé, aucun achat |
 
 <details>
-<summary><b><code>$ man homelab</code></b> : pourquoi ces choix (cliquer pour déplier)</summary>
+<summary><b>◼ JOURNAL DE MISSION (cliquer pour déclassifier)</b></summary>
 
 <br/>
 
-| Choix | Raison |
-|-------|--------|
-| ♻️ Vieux portable recyclé | Zéro achat, batterie intégrée, consommation maîtrisée |
-| 🌐 Tailscale plutôt que redirection de ports | Accès distant sans exposer le serveur sur Internet |
-| 🔑 SSH par clé uniquement | Supprime le risque de brute force sur mot de passe |
-| 🧱 UFW en deny par défaut | On n'ouvre que le strict nécessaire |
-| 🚫 Fail2ban | Bannit automatiquement les IP qui insistent |
+```log
+[2026-11] casaos     : installé sur Debian, interface web opérationnelle
+[2026-11] tailscale  : serveur + iPhone dans le même tailnet
+[2026-11] ufw        : politique deny incoming
+[2026-11] sshd       : clé ed25519, mot de passe et root désactivés
+[2026-11] fail2ban   : jail sshd actif
+[À VENIR] monitoring : en préparation
+[À VENIR] sauvegardes: en préparation
+```
 
-> 📸 *Captures d'écran de l'interface CasaOS à ajouter ici.*
+> 📸 *Captures d'écran de l'interface à ajouter ici.*
 
 </details>
 
 ---
 
-## `$ ls ~/projects`
+## ◼ DOSSIERS DE MISSION · PROJETS
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🏠 `homelab/`
-Serveur perso sécurisé : Debian, CasaOS, Tailscale, UFW, Fail2ban, SSH durci.
+### 🏠 OPÉRATION HOME LAB
+`STATUT : ACTIVE`
 
-![](https://img.shields.io/badge/-Debian-0D1117?style=flat-square&logo=debian&logoColor=00FF41)
-![](https://img.shields.io/badge/-Tailscale-0D1117?style=flat-square&logo=tailscale&logoColor=00FF41)
-![](https://img.shields.io/badge/-CasaOS-0D1117?style=flat-square&logoColor=00FF41)
+Serveur personnel sécurisé : Debian, CasaOS, Tailscale, UFW, Fail2ban, SSH durci.
 
-[`> cd homelab`](https://github.com/TON_PSEUDO/NOM_DU_DEPOT_HOMELAB)
+![](https://img.shields.io/badge/-Debian-0A0A0A?style=flat-square&logo=debian&logoColor=D4AF37)
+![](https://img.shields.io/badge/-Tailscale-0A0A0A?style=flat-square&logo=tailscale&logoColor=D4AF37)
+
+[**▸ Ouvrir le dossier**](https://github.com/TON_PSEUDO/NOM_DU_DEPOT_HOMELAB)
 
 </td>
     <td width="50%" valign="top">
 
-### 🚧 `projet-2/`
+### 🔒 OPÉRATION N°2
+`STATUT : À COMPLÉTER`
+
 Décris ici ton projet en une ou deux phrases : ce qu'il fait, pourquoi.
 
-![](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=00FF41)
+![](https://img.shields.io/badge/-Python-0A0A0A?style=flat-square&logo=python&logoColor=D4AF37)
 
-[`> cd projet-2`](https://github.com/TON_PSEUDO/NOM_DU_DEPOT_2)
+[**▸ Ouvrir le dossier**](https://github.com/TON_PSEUDO/NOM_DU_DEPOT_2)
 
 </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-### 🚧 `projet-3/`
+### 🔒 OPÉRATION N°3
+`STATUT : À COMPLÉTER`
+
 Décris ici ton projet en une ou deux phrases : ce qu'il fait, pourquoi.
 
-![](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00FF41)
+![](https://img.shields.io/badge/-JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=D4AF37)
 
-[`> cd projet-3`](https://github.com/TON_PSEUDO/NOM_DU_DEPOT_3)
+[**▸ Ouvrir le dossier**](https://github.com/TON_PSEUDO/NOM_DU_DEPOT_3)
 
 </td>
     <td width="50%" valign="top">
 
-### 🌐 `portfolio/`
-```text
-status: 404 not found yet
-eta   : bientôt 🚀
-```
+### 🌐 PORTFOLIO
+`STATUT : CLASSIFIÉ · BIENTÔT DÉCLASSIFIÉ`
 
-<!-- Quand il sera en ligne : [`> cd portfolio`](https://TON_SITE.fr) -->
+Ma vitrine complète arrive bientôt.
+
+<!-- Quand il sera en ligne : [**▸ Visiter**](https://TON_SITE.fr) -->
 
 </td>
   </tr>
@@ -201,95 +215,57 @@ eta   : bientôt 🚀
 
 ---
 
-## `$ ./stats.sh`
+## ◼ RAPPORT D'ACTIVITÉ
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" alt="langages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=D4AF37&icon_color=D4AF37&text_color=E6E6E6&include_all_commits=true&count_private=true" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=D4AF37&text_color=E6E6E6" alt="langages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=TON_PSEUDO&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=TON_PSEUDO&hide_border=true&background=0A0A0A&stroke=2b2208&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E6E6E6&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=8B8B8B" alt="streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_PSEUDO&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true" alt="activité" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_PSEUDO&bg_color=0A0A0A&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&hide_border=true" alt="activité" width="100%"/>
 
 <br/>
 
-<!-- Serpent animé : nécessite l'Action décrite en bas du fichier -->
 <img src="https://raw.githubusercontent.com/TON_PSEUDO/TON_PSEUDO/output/github-snake-dark.svg" alt="snake" width="100%"/>
 
 </div>
 
 ---
 
-## `$ cat ~/roadmap.md`
+## ◼ ORDRES DE MISSION
 
 - [x] Monter un home lab sur du matériel recyclé
 - [x] Sécuriser un serveur : pare-feu, SSH par clé, anti-bruteforce
-- [x] Accès distant sans ouvrir de ports (Tailscale)
-- [ ] Ajouter du monitoring (ex : Uptime Kuma, Grafana)
-- [ ] Mettre en place des sauvegardes automatisées
-- [ ] Mettre mon portfolio en ligne
-- [ ] Pratiquer la cybersécurité en CTF (TryHackMe, Root-Me)
+- [x] Accès distant sans ouvrir de ports
+- [ ] Ajouter du monitoring
+- [ ] Automatiser les sauvegardes
+- [ ] Mettre le portfolio en ligne
+- [ ] S'entraîner en CTF (TryHackMe, Root-Me)
 - [ ] Décrocher un stage 🎯
 
 ---
 
-## `$ ./contact.sh`
+## ◼ CANAL SÉCURISÉ
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/TON_LINKEDIN/"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"/></a>
-<a href="mailto:ton.email@exemple.fr"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email"/></a>
-<!-- <a href="https://TON_SITE.fr"><img src="https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF41" alt="Portfolio"/></a> -->
+<a href="https://www.linkedin.com/in/TON_LINKEDIN/"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn"/></a>
+<a href="mailto:ton.email@exemple.fr"><img src="https://img.shields.io/badge/-Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email"/></a>
+<!-- <a href="https://TON_SITE.fr"><img src="https://img.shields.io/badge/-Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" alt="Portfolio"/></a> -->
 
 <br/><br/>
 
 ```text
-$ echo "Un stage à proposer ? Écris-moi !"
-Un stage à proposer ? Écris-moi !
-$ _
+Ce message ne s'autodétruira pas.
+Écrivez-moi, je réponds.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a2e14,100:000000&height=90&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2b2208,100:000000&height=90&section=footer" width="100%" alt="footer"/>
 
 </div>
-
-<!--
-=====================================================================
-OPTIONNEL : serpent animé (Snake) qui mange tes contributions
-=====================================================================
-1. Crée le fichier .github/workflows/snake.yml dans ton dépôt de profil
-2. Colle :
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-permissions:
-  contents: write
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-3. Onglet Actions > "Generate Snake" > Run workflow
-=====================================================================
--->
